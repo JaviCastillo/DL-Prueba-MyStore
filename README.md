@@ -1,4 +1,8 @@
-# cambiojest-mystore
+# DL - Prueba - My Store
+
+## Alumno: Javier Alejandro Castillo Oñatt
+
+## Nota: El material venia originalmente configurado para hacer test con Mocha-Chai y Cypress. Lo cambie a Jest y Nightwatch para facilidad de uso y familiaridad
 
 ## Project setup
 ```
